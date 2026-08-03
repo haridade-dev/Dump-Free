@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "server_name": "Hari Licenses",
+  "authorized_by": "haridade.dev",
+  "message": "Licença inválida ou IP não autorizado viado!!.",
+  "licenses": [
+    {
+      "client": "Teste 7 dias",
+      "key": "lic-cliente-001",
+      "type": "trial",
+      "expires_in": "7",
+      "active": true,
+      "allowed_ips": [
+        "187.34.17.224"
+      ]
+    }
+  ]
+}
