@@ -5,13 +5,13 @@
   "message": "Licença inválida ou IP não autorizado viado!!.",
   "licenses": [
     {
-      "client": "Teste 7 dias",
-      "key": "lic-cliente-001",
+      "client": "Dump-Free",
+      "key": "lic-cliente-002",
       "type": "trial",
       "expires_in": "7",
       "active": true,
       "allowed_ips": [
-        "187.34.17.224"
+        "200.232.216.216"
       ]
     }
   ]
